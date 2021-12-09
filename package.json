@@ -8,10 +8,10 @@
   "license": "MIT",
   "description": "An unified permissions API for React Native on iOS, Android and Windows",
   "author": "Venkata Chaithanya <vchaitanya@travogram.com>",
-  "homepage": "https://github.com/chaitanya55drk/react-native-media-location-permission#readme",
+  "homepage": "https://github.com/chaithanya8888/react-native-media-location-permission#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chaitanya55drk/react-native-media-location-permission.git"
+    "url": "https://github.com/chaithanya8888/react-native-media-location-permission.git"
   },
   "keywords": [
     "react-native",
