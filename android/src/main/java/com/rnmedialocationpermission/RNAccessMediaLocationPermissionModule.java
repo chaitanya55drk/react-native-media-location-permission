@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.rnmedialocationpermission;
 
 import static android.content.pm.PackageManager.PERMISSION_GRANTED;
 
